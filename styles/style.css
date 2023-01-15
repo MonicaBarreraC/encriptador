@@ -1,0 +1,32 @@
+body {
+    background-color: #F3F5FC;
+    margin: 40px;
+    font-family: 'Inter', sans-serif;
+}
+
+.logo {
+    padding: 0 44px;
+
+}
+
+.cuadricula {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 20px;
+}
+
+.text-input {
+    margin-top: 80px;
+    font-size: 32px;
+    line-height: 1.5;
+}
+
+.mensaje {
+    background-color: #FFFFFF;
+    border-radius: 32px;
+    text-align: center;
+    /*min-height: 500px;*/
+    height: 100%;
+    /*padding: 128px 0;*/
+    
+}
